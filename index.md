@@ -7,4 +7,4 @@
 ---
 
 
-[Image of Scubatocat](https://github.com/dhilipsiva/octodex/blob/master/png/scubatocat.png)
+![Image of Scubatocat](https://github.com/dhilipsiva/octodex/blob/master/png/scubatocat.png)
