@@ -58,3 +58,10 @@ namespace SpecFlowCalc.Specs.StepDefinitions
     }
 }
 ```
+
+- [x] Added headers
+- [x] Added image
+- [x] Added code block
+- [x] Right now adding a task list
+- [ ] Whatever may come!
+
